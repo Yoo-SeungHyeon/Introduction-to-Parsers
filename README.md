@@ -230,3 +230,62 @@ ResolvedPage
 ```text
 Rendered bitmap / canvas / SVG
 ```
+
+---
+
+## 다양한 파서들
+
+### Parser
+
+- <https://docs.langchain.com/oss/python/integrations/document_loaders/index#pdfs>
+- <https://reference.langchain.com/python/langchain-community/document_loaders/parsers/pdf>
+- <https://github.com/pymupdf/PyMuPDF>
+- <https://github.com/jsvine/pdfplumber>
+- <https://github.com/py-pdf/pypdf>
+- <https://github.com/pypdfium2-team/pypdfium2>
+- <https://github.com/pdfminer/pdfminer.six>
+- <https://github.com/ispras/dedoc>
+- <https://github.com/getomni-ai/zerox>
+- <https://github.com/bytedance/Dolphin>
+- <https://github.com/docling-project/docling>
+- <https://github.com/datalab-to/marker>
+- <https://github.com/Filimoa/open-parse>
+- <https://github.com/Layout-Parser/layout-parser>
+- <https://github.com/opendatalab/mineru>
+- <https://github.com/opendatalab/PDF-Extract-Kit>
+
+- <https://github.com/run-llama/liteparse> // TypeScript + Python
+
+- <https://github.com/apache/tika> // 자바 parser
+- <https://github.com/grobidOrg/grobid> // 자바 parser
+- <https://github.com/opendataloader-project/opendataloader-pdf> // 자바 parser
+
+- <https://github.com/Unstructured-IO/unstructured> // 애매함
+
+### OCR
+
+- <https://github.com/allenai/olmocr>
+- <https://github.com/aqntks/Easy-Yolo-OCR>
+- <https://github.com/deepseek-ai/DeepSeek-OCR>
+- <https://github.com/deepseek-ai/DeepSeek-OCR-2>
+- <https://github.com/datalab-to/chandra>
+- <https://github.com/datalab-to/surya>s
+- <https://github.com/ocrmypdf/ocrmypdf>
+- <https://github.com/opendatalab/MinerU-Diffusion>
+- <https://github.com/PADDLEPADDLE/PADDLEOCR>
+- <https://github.com/posicube-services/KolmOCR>
+- <https://github.com/tesseract-ocr/tesseract>
+- <https://github.com/Tencent-Hunyuan/HunyuanOCR>
+- <https://github.com/yuliang-liu/monkeyocr>
+- <https://github.com/zai-org/GLM-OCR>
+- <https://huggingface.co/nvidia/nemotron-ocr-v2>
+
+### Doc Layout
+
+- <https://github.com/opendatalab/DocLayout-YOLO>
+
+### Table
+
+- <https://github.com/deepdoctection/deepdoctection>
+- <https://github.com/microsoft/table-transformer>
+- <https://github.com/DevashishPrasad/CascadeTabNet>
