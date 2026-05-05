@@ -245,7 +245,6 @@ Rendered bitmap / canvas / SVG
 - <https://github.com/pypdfium2-team/pypdfium2>
 - <https://github.com/pdfminer/pdfminer.six>
 - <https://github.com/ispras/dedoc>
-- <https://github.com/getomni-ai/zerox>
 - <https://github.com/bytedance/Dolphin>
 - <https://github.com/docling-project/docling>
 - <https://github.com/datalab-to/marker>
@@ -264,6 +263,7 @@ Rendered bitmap / canvas / SVG
 
 ### OCR
 
+- <https://github.com/getomni-ai/zerox>
 - <https://github.com/allenai/olmocr>
 - <https://github.com/aqntks/Easy-Yolo-OCR>
 - <https://github.com/deepseek-ai/DeepSeek-OCR>
